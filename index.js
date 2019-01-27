@@ -22,5 +22,7 @@ function switchOnCharmFromTip(tip) {
     return 'Thank you so much.'}
     else if (tip === "not generous") {
       return 'Thank you.'}
+      else {
+        return "Bye/"}
 
 
