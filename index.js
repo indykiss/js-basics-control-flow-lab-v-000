@@ -7,7 +7,7 @@ function scuberGreetingForFeet(feet){
     return "This one is on me!"
   }
   else if (feet > 2000) {
-    return "This one is on me!"
+    return 'I will gladly take your thirty bucks.'
   }
   
 }
